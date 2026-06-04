@@ -1,0 +1,39 @@
+# R project file
+*.Rproj
+
+# R history
+.Rhistory
+.Rapp.history
+
+# R environment
+.RData
+.Ruserdata
+
+# R session data
+*.RData
+
+# Compiled R output
+*.rdb
+*.rdx
+
+# knitr/rmarkdown cache and output
+*_cache/
+*_files/
+*.html
+*.pdf
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
